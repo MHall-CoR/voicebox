@@ -71,3 +71,4 @@ sse-starlette>=2.0
 # Utilities
 python-multipart>=0.0.6
 Pillow>=10.0.0
+urllib3>=2.8.0 # not directly required, pinned by Snyk to avoid a vulnerability
