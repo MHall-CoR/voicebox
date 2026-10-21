@@ -7,3 +7,4 @@ soundfile
 librosa
 python-multipart
 huggingface_hub
+filelock>=4.2.1 # not directly required, pinned by Snyk to avoid a vulnerability
